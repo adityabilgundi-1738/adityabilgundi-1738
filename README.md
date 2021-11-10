@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about CPP/DS
-- 📫 How to reach me: 
+- 📫 How to reach me: ajayghale2524@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 

@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Flutter, Dart, Node, MongoDB, GraphQL and development in general.
 - 🌱 I’m currently learning DSA
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for Projects on API Development and Flutter AppDev.
+- 🤔 I’m looking for Projects on MERN stack
 - 💬 Ask me about Web Dev / DSA.
 - 📫 How to reach me: ajayghale2524@gmail.com.
 

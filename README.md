@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=adityabilgundi-1738&label=Profile%20views&color=0e75b6&style=flat" alt="adityabilgundi-1738" /> </p>
 
-- 🔭 I’m currently working on Flutter, Dart, Node, MongoDB, GraphQL and development in general.
+- 🔭 I’m currently working on MERN Stack.
 - 🌱 I’m currently learning DSA
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for Projects on MERN stack

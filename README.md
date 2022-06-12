@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on MERN Stack.
 - 🤔 I’m looking for Projects on MERN stack
-<!-- - 💬 Ask me about Web Dev / DSA. -->
 - 📫 How to reach me: ajayghale2524@gmail.com.
 
+<!-- - 💬 Ask me about Web Dev / DSA. -->
 <!-- - ⚡ Fun fact: -->
 
 <h3 align="left">Connect with me:</h3>
